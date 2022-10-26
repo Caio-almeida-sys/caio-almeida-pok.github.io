@@ -1,2 +1,2 @@
-# caio-almeida-pok.github.io
+# http://caio-almeida-pok.github.io
 Pokedex
